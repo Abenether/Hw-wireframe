@@ -1,0 +1,39 @@
+
+h1 {
+    color: white;
+    font-size: 70px;
+    padding : 20px;
+    margin: 0px;
+    background-color: black;
+    text-align: center;
+}
+
+aside {
+    color: darkred;
+    float: right;
+}
+
+#header{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.div1 {
+    background-color: grey;
+    font-size: 60px;
+    text-align: center;
+
+    float: left;
+    width: 1000px; 
+
+
+}
+
+.div2 {
+    background-color: darkred;
+    font-size: 45.2px;
+    text-align: center; 
+    float: left;
+    height: 120px;
+    
+}
